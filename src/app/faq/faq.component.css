@@ -1,0 +1,153 @@
+.qa {
+	font-size: 2.8em;
+	margin-left: 4.2em;
+	margin-top: 3em;
+	margin-bottom: 10px;
+}
+
+.q1 {
+	background-color: rgb(2, 34, 66);
+	width:58em;
+	height: 100px;
+	font-size: 1.5em;
+	margin-left: 7.8em;
+	margin-top: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 20px;
+	text-align: left;
+	color: #fff;
+}
+
+.dd1 {
+	background-color: rgb(2, 34, 66);
+	width:43.2em;
+	height: 9em;
+	font-size: 1.7em;
+	margin-left: 6em;
+	margin-top: 0px;
+	padding: 20px 20px 20px 20px;
+}
+
+.q1:hover {
+	background-color: rgb(16, 13, 46);
+	cursor: pointer;
+	visibility: visible;
+} 
+
+.icon {
+	position:absolute;
+	margin-left: 48em;
+}
+
+.dd2 {
+	background-color: rgb(2, 34, 66);
+	width:43.2em;
+	height: 4em;
+	font-size: 1.7em;
+	margin-left: 6em;
+	margin-top: 0px;
+	padding: 20px 20px 20px 20px;
+}
+
+#icon2 {
+	position:absolute;
+	margin-left: 42em;
+}
+
+.dd3 {
+	background-color: rgb(2, 34, 66);
+	width:43.2em;
+	height: 11em;
+	font-size: 1.7em;
+	margin-left: 6em;
+	margin-top: 0px;
+	padding: 20px 20px 20px 20px;
+}
+
+#icon3 {
+	position:absolute;
+	margin-left: 46em;
+}
+
+.dd4 {
+	background-color: rgb(2, 34, 66);
+	width:43.2em;
+	height: 5em;
+	font-size: 1.7em;
+	margin-left: 6em;
+	margin-top: 0px;
+	padding: 20px 20px 20px 20px;
+}
+
+#icon4 {
+	position:absolute;
+	margin-left: 47.1em;
+}
+
+.dd5 {
+	background-color: rgb(2, 34, 66);
+	width:43.2em;
+	height: 4em;
+	font-size: 1.7em;
+	margin-left: 6em;
+	margin-top: 0px;
+	padding: 20px 20px 20px 20px;
+}
+
+#icon5 {
+	position:absolute;
+	margin-left: 42.2em;
+}
+
+.dd6 {
+	background-color: rgb(2, 34, 66);
+	width:43.2em;
+	height: 7.7em;
+	font-size: 1.7em;
+	margin-left: 6em;
+	margin-top: 0px;
+	padding: 20px 20px 20px 20px;
+}
+
+#icon6 {
+	position:absolute;
+	margin-left: 44.5em;
+}
+
+.ftxt {
+	font-size: large;
+	margin-left: 10.5em;
+	margin-top: 40px;
+}
+
+.email2 {
+	height: 50px;
+	width: 30%;
+	background:rgb(41, 38, 73);
+	margin-left: 9.4em;
+	margin-right: 10px;
+	padding: 10px;
+	border-color: rgb(127, 190, 108);
+	border-radius: 5px;
+	color: #fff;
+	font-size: 20px;
+	
+}
+
+.btn {
+	width: 240px ;
+	height: 73px;
+	font-size: 25px;
+	padding: 16px 16px;
+	color: #fff;
+	background-color: #e50914;
+	cursor: pointer;
+	font-family: Helvetica, sans-serif;
+	border-radius: 8px;
+	text-align: center;
+}
+
+nav .signin:hover, .btn:hover {
+	background: #f40612;
+}

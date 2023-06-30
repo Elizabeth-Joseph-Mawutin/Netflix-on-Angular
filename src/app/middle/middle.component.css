@@ -1,0 +1,163 @@
+
+html, body {
+	margin: 0;
+	padding: 0;
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	color: white;
+	background-color: #010116;
+	font-size: 18px;
+}
+
+.middle {
+	background: linear-gradient(to bottom, rgba(11, 2, 32, 0.5), rgba(48, 2, 40, 0.8));
+	/* background-color: rgb(8, 4, 26); */
+	height: 300vh;
+	width:94%;
+	margin-left: 50px;
+	margin-right: 50px;
+	margin-top: 30px;
+	border-radius: 30px;
+}
+
+.pitch-title1 {
+	font-size: 3.7em;
+	margin: 0 0 0.5em;
+	position: relative;
+}
+
+.pitch-sub1 {
+	font-size: 21px;
+	margin: 0 0 0.9em;
+	font-weight: 500em;
+}
+
+.mid {
+	margin-left: 8%;
+	margin-top: 40em;
+	position: absolute;
+	top: 60%;
+	font-size: 0.9vw;
+}
+
+.middle .first {
+	position: relative;
+	margin-left: 50%;
+	width: 42%;
+}
+
+.middle .line1 {
+	height: 10px;
+	width:83%;
+	margin-left: 140px;
+	background-color: rgb(28, 28, 59);
+}
+
+.pitch-title2 {
+	font-size: 3.7em;
+	margin: 0 0 0.5em;
+	position: relative;
+	margin-top: 3em;
+	margin-left: 12em;
+	
+}
+
+.pitch-sub2 {
+	font-size: 21px;
+	margin: 0 0 0.9em;
+	margin-top: 1em;
+	margin-left: 35em;
+}
+
+.mid2 {
+	margin-left: 105px;
+	margin-top: 65em;
+	position: absolute;
+	top: 60%;
+	font-size: 0.9vw;
+}
+
+.middle .sec {
+	position:relative;
+	margin-top: 1em;
+	margin-left: 8%;
+	width: 43%;
+}
+
+.middle .line2 {
+	height: 10px;
+	width:83%;
+	margin-left: 140px;
+	margin-top: 1em;
+	background-color: rgb(28, 28, 59);
+}
+
+.pitch-title3 {
+	font-size: 3.7em;
+	margin: 0 0 0.5em;
+	position: relative;
+	margin-top: 2.8em;
+	margin-left: 0.5em;
+	
+}
+
+.pitch-sub3 {
+	font-size: 21px;
+	margin: 0 0 0.9em;
+	margin-top: 1em;
+	margin-left: 1.5em;
+}
+
+.mid3 {
+	margin-left: 140px;
+	margin-top: 98em;
+	position: absolute;
+	top: 60%;
+	font-size: 0.9vw;
+}
+
+.middle .third {
+	position:relative;
+	margin-top: 1em;
+	margin-left: 45em;
+	width: 40%;
+}
+
+.middle .line3 {
+	height: 10px;
+	width:83%;
+	margin-left: 140px;
+	margin-top: 1em;
+	background-color: rgb(28, 28, 59);
+}
+
+.pitch-title4 {
+	font-size: 3.7em;
+	margin: 0 0 0.5em;
+	position: relative;
+	margin-top: 12em;
+	margin-left: 10em;
+	
+}
+
+.pitch-sub4 {
+	font-size: 21px;
+	margin: 0 0 0.9em;
+	margin-top: 1em;
+	margin-left: 29em;
+}
+
+.mid4 {
+	margin-left: 15em;
+	margin-top: 97em;
+	position: absolute;
+	top: 60%;
+	font-size: 0.9vw;
+}
+
+.middle .fourth {
+	position:relative;
+	margin-top: 1.5em;
+	margin-left: 7em;
+	width: 42%;
+}
+
